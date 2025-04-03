@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/to-be-archive/level3/a.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level3/a",
+      "redirect_document_id": false
+    }
+  ]
+}
