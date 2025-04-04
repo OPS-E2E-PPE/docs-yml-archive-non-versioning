@@ -1,0 +1,19 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/to-be-archive/level3/a.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level3/a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level3/b.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level3/b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level3/c.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level3/c",
+      "redirect_document_id": false
+    }
+  ]
+}
